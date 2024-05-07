@@ -1,0 +1,8 @@
+Unitycar 2.2 Support - ReadMe!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+• Make sure that Unitycar is already imported to your project before importing the UnityCar2.2.unitypackage!
+
+• Please note that this will overwrite the deafault car physics and car configurations will no longer be done via the Vehicle Setup Wizard.
+
+• Read the documentation (ReadMe.pdf) for more information on how to set up your Unitycar2.2 cars.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+Rewired Support - ReadMe!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+• Make sure that Rewired is already imported to your project before importing the Rewired.unitypackage!
+
+• Please note that this will overwrite the deafault vehicle input.
+
+• Read the documentation (ReadMe.pdf) for more information on Rewired.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
